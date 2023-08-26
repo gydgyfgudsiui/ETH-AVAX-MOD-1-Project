@@ -20,7 +20,7 @@ Here are the steps to compile and deploy the contract:
 
 1. Compile the contract using the Solidity compiler. You can use a tool like Remix (https://remix.ethereum.org/) or the Solidity compiler command line.
 
-2. Deploy the compiled contract to an Ethereum-compatible blockchain. You can use tools like Remix or Truffle (https://www.trufflesuite.com/truffle) to deploy the contract.
+2. Deploy the compiled contract to an Ethereum-compatible blockchain. You can use tools like Remix to deploy the contract.
 
    Certainly! Error handling is an essential aspect of smart contract development to ensure that your contracts behave predictably and securely. Here's an updated README section that includes information on error handling functions:
 
